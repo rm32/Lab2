@@ -2,6 +2,7 @@
 
 ## Description
 Design, build and test a simple Cyclic Executive for the MBED unit using an interval of 20ms.
+
 There are 8 actions:
 * Measure the frequency of a 3.3v square wave signal once every second
 * Read ONE digital input every 300mS
