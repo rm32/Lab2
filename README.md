@@ -16,8 +16,8 @@ There are 8 actions:
 * Data logging : 1=log to uSD card
 * Length of watchdog pulse Range : 20 mS
 * Display of error condition: 2=display as flashing blue LED in MBED board
-* Show execution time pulse for one of the actions: 1  
+* Show execution time pulse for one of the actions: 1
 
 ## Authors
-  Roshenac Mitchell  March 2016
+  Roshenac Mitchell - March 2016
 
