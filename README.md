@@ -13,10 +13,10 @@ There are 8 actions:
 * Use other slots to check a shutdown switch
   
  Given parameters are:
-  Data logging : 1=log to uSD card
-  Length of watchdog pulse Range : 20 mS
-  Display of error condition: 2=display as flashing blue LED in MBED board
-  Show execution time pulse for one of the actions: 1
+* Data logging : 1=log to uSD card
+* Length of watchdog pulse Range : 20 mS
+* Display of error condition: 2=display as flashing blue LED in MBED board
+* Show execution time pulse for one of the actions: 1  
 
 ## Authors
   Roshenac Mitchell  March 2016
